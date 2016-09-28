@@ -49,19 +49,19 @@ public class _02_For {
 //		}
 
 
-		String spaces = "There are spaces in this string";
-		int numSpaces = 0;
-		//System.out.println(spaces.length());
-		//System.out.println(spaces.charAt(30));
-		for(int i = 0; i < spaces.length(); i++) {
-//			System.out.println(spaces.charAt(i));
-			if (spaces.charAt (i) != ' ') {
-				continue;
-			}else{
-				numSpaces++; 
-			}			
-		}
-			System.out.println("tere are " + numSpaces + " spaces in you string");
+//		String spaces = "There are spaces in this string";
+//		int numSpaces = 0;
+//		//System.out.println(spaces.length());
+//		//System.out.println(spaces.charAt(30));
+//		for(int i = 0; i < spaces.length(); i++) {
+////			System.out.println(spaces.charAt(i));
+//			if (spaces.charAt (i) != ' ') {
+//				continue;
+//			}else{
+//				numSpaces++; 
+//			}			
+//		}
+//			System.out.println("tere are " + numSpaces + " spaces in you string");
 		
 		
 
