@@ -1,5 +1,7 @@
 package _02_Hello_World;
 
+import _17_Encapsulation.Patriot;
+
 public class Hello_World {
 
 	public static void main(String[] args) {
@@ -8,6 +10,10 @@ public class Hello_World {
 		System.out.println("Hello World");
 		System.out.println("syso-ctrl+space=shortcut for line");
 		
+		
+		Patriot johnson = new Patriot();
+		johnson.name="Johnson";
+		 
 		
 		
 		

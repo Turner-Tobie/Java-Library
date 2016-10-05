@@ -71,9 +71,6 @@ public class _02_1_ForLoopPractice {
 			  //}
 			   
 			   
-			   
-			  }
-			}
 		
 		
 		
